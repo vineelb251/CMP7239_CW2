@@ -25,6 +25,7 @@ The models are trained on RT-IoT2022, a real-world IoT network traffic dataset c
 **Type:** Regression
 **Features:** 50 network traffic flow features
 **Target Variable:** `flow_duration`
+Dataset link:https://drive.google.com/file/d/1YLlpujB22hTZDZGVPJjJXKrJ4W8DOVxb/view?usp=drive_link
 
 ### Dataset Includes:
 
